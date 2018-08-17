@@ -1,4 +1,4 @@
-# Ruefer
+# Ruefer2
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
 
@@ -25,10 +25,3 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-
-
-Links - Guia para creacion del proyecto base
-https://devs4j.com/2017/10/11/crear-componentes-en-angular-4/
-
-https://code.tutsplus.com/es/tutorials/beginners-guide-to-angular-4-components--cms-29674
-
